@@ -1,0 +1,20 @@
+title: RIME·宇浩输入法
+description: RIME·宇浩输入法
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-default-layout
+  
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
